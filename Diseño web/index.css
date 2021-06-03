@@ -1,0 +1,38 @@
+body{
+background-image: url(a.jpg);
+background-repeat: no-repeat;
+background-attachment: all;
+font-size: 18px;
+}
+
+
+
+h1 {
+
+	color: #ab32de; text-align:left;
+}
+
+
+
+article{
+
+	width:	850px;
+	height:	1050px;
+	text-align:justify;
+
+}
+b{
+	font-size: 20px;
+}
+
+
+
+#redes{
+ height: 50px;
+ width:  50px;
+}
+#personas{
+
+	float:right;
+
+}
