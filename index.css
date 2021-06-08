@@ -17,13 +17,15 @@ article{
 }
 b{
 	font-weight: 100;
+	}
+
+#personas{
+	float:right;
+	padding:4px;
 }
+
 
 #redes{
  height: 50px;
  width:  50px;
-}
-#personas{
-	float:right;
-	padding:4px;
 }
