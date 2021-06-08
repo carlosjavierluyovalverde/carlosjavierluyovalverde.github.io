@@ -6,37 +6,23 @@ background-size: 100% 100%;
 font-size: 18px;
 }
 
-
-
 h1 {
-
 	color: #ab32de; text-align:left;
 }
 
-
-
-
 article{
-
 	width:	1000px;
 	height:	1000px;
 	text-align:justify;
-
 }
-
 b{
 	font-weight: 100;
-
 }
-
-
 
 #redes{
  height: 50px;
  width:  50px;
 }
 #personas{
-
 	float:right;
-
 }
