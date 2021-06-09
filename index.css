@@ -4,7 +4,7 @@ background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: 100% 100%; 
 font-size: 18px;
-color: #59c3c3;
+color: #ffffff;
 }
 
 h1{
@@ -13,11 +13,12 @@ h1{
 
 article{
 	width:	1000px;
-	height:	990px;
+	height:	1000px;
 	text-align:justify;
 }
 b{
 	font-size:22px;
+	color:#59c3c3
 }
 #personas{
 	float:right;
