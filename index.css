@@ -1,19 +1,23 @@
 body{
-background-image: url(a1.jpg);
+background-image: url(a.jpg);
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: 100% 100%; 
 font-size: 18px;
+color: #59c3c3
 }
 
 h1{
-	color: #ab32de; text-align:left;
+	; text-align:left;
 }
 
 article{
 	width:	1000px;
-	height:	970px;
+	height:	990px;
 	text-align:justify;
+}
+b{
+	font-size:22px;
 }
 #personas{
 	float:right;
