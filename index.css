@@ -3,21 +3,22 @@ background-image: url(a.jpg);
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: 100% 100%; 
-font-size: 18px;
+font-size: 22px;
 color: #ffffff;
 }
 
-h1{
-	; text-align:left;
+h1,h2{
+
+	color:#59c3c3
 }
 
 article{
 	width:	1000px;
-	height:	1000px;
+	height:	1315px;
 	text-align:justify;
 }
 b{
-	font-size:22px;
+	font-size:26px;
 	color:#59c3c3
 }
 #personas{
