@@ -27,9 +27,11 @@ b{
 	padding:15px;
 }
 
-
+h2{
+margin:5px;
+}
 #redes{
 height: 70px;
 width:  70px;
-padding:10px;
+padding:20px;
 }
